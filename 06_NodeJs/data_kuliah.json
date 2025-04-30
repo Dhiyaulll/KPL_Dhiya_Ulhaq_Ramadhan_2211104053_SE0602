@@ -1,0 +1,25 @@
+{
+    "student": {
+      "name": "Dhiya Ulhaq Ramadhan"
+      
+    },
+    "lecturerCode": "ARB",
+    "courses": [
+      {
+        "courseCode": "IF101",
+        "courseName": "Pemrograman Dasar"
+      },
+      {
+        "courseCode": "IF102",
+        "courseName": "Struktur Data"
+      },
+      {
+        "courseCode": "IF108",
+        "courseName": "Algoritma Pemrograman"
+      },
+      {
+        "courseCode": "IF110",
+        "courseName": "Proses Perangkat Lunak"
+      }
+    ]
+  }
