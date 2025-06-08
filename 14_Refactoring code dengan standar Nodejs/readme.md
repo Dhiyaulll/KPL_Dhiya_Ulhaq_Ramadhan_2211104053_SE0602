@@ -4,7 +4,7 @@
 **NIM:** 2211104053  
 
 ## Deskripsi Singkat Tugas
-Melakukan refactoring kode dari file `unguided.js` menjadi modul-modul terpisah sesuai standar Node.js, memperbaiki penamaan, indentasi, deklarasi variabel, dan menambahkan dokumentasi.
+Melakukan refactoring kode dari file `unguided.js` pada MODUL 04 menjadi modul-modul terpisah sesuai standar Node.js, memperbaiki penamaan, indentasi, deklarasi variabel, dan menambahkan dokumentasi.
 
 ## Perubahan yang Dilakukan
 - Memecah kode ke dalam folder `controllers` dan `models`  
